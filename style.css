@@ -1,0 +1,46 @@
+body {
+    font-family: "Marker Felt", fantasy;
+    font-size: 16px;
+    background-color: hsl(162, 79%, 62%);
+}
+
+.main{
+    width: 1024px;
+    text-align: center;
+    float: right;
+    margin-right: 200px;
+}
+
+.header{
+    float: left;
+    height: 750 auto;
+}
+
+.skills{
+    display: inline-block;
+    margin: 0;
+    padding: 4px; 
+}
+
+.skills li {
+    display: inline; 
+    margin-right: 5px; 
+    border: 2px solid #000; 
+    padding: 3px; 
+   }
+
+img{
+    border: 6px solid rgb(236, 116, 4);
+}
+
+ h1{
+    color: rgb(236, 116, 4);
+}
+
+.me, .skill_cl, .exp, .eng, .education {
+    border: 6px solid rgb(236, 116, 4);
+    padding: 8px;
+}
+h1,h2{
+    text-decoration: underline;
+}
