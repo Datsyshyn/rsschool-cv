@@ -1,0 +1,26 @@
+body {
+    font-family: "Marker Felt", fantasy;
+    font-size: 16px;
+    background-color: hsl(162, 79%, 62%);
+}
+
+.main{
+    width: 1024px;
+    text-align: center;
+    float: right;
+    margin-right: 200px;
+}
+
+.header{
+    float: left;
+    height: 750 auto;
+}
+
+.skills{
+    display: inline-block;
+}
+
+img{
+    border: 4px solid rgb(166, 168, 24);
+}
+
